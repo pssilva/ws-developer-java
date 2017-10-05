@@ -41,6 +41,8 @@ Considerando que temos uma instância do Amazon Machine Image - AMI iniciada: [a
 ### Referência
 
 \[Sébastien Goasguen: 2016\], O’Reilly Media, Inc., [Docker Cookbook](http://www.allitebooks.com/docker-cookbook/): SOLUTIONS AND EXAMPLES FOR BUILDING DISTRIBUTED APPLICATIONS.<br />
+\[SEBRAE - Controles Financeiros: 2013\], © 2008. Serviço de Apoio às Micro e Pequenas Empresas de Minas
+Gerais – SEBRAE, [SEBRAE - Como Elaborar Controles Financeiros](http://www.sebraemg.com.br/Atendimento/Imagens/Como%20Elaborar%20Controles%20Financeiros.pdf): SOLUTIONS AND EXAMPLES FOR BUILDING DISTRIBUTED APPLICATIONS.<br />
 \[Martin Kalin: 2013\], Published by O’Reilly Media, Inc., [Java Web Services](https://www.safaribooksonline.com/library/view/java-web-services/9781449373856/): Up and Running, Second Edition.<br />
 \[Alexandros Dallas: 2014\], Published by Packt Publishing Ltd., [RESTful Web Services with Dropwizard](https://www.packtpub.com/web-development/restful-web-services-dropwizard): Over 20 recipes to help you build high-performance, production-ready RESTful JVM-based backend services.<br />
 \[Hamidreza Sattari, Shameer Kunjumohamed: 2012\], Published by Packt Publishing Ltd., [Spring Web Services 2 Cookbook](https://www.packtpub.com/web-development/spring-web-services-2-cookbook): Over 60 recipes providing comprehensive coverage of practical real-life implementations of Spring-WS.<br />
