@@ -9,6 +9,8 @@
 *.war
 *.ear
 .DS_Store
+*~lock.*
+
 
 !src/main/resources/META-INF/lib/*.jar
 
