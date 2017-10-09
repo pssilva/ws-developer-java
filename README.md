@@ -40,13 +40,13 @@ Considerando que temos uma instância do Amazon Machine Image - AMI iniciada: [a
 
 ### Referência
 
-\[Sébastien Goasguen: 2016\], O’Reilly Media, Inc., [Docker Cookbook](http://www.allitebooks.com/docker-cookbook/): SOLUTIONS AND EXAMPLES FOR BUILDING DISTRIBUTED APPLICATIONS.<br />
+\[Deepal Jayasinghe, Afkham Azeez: 2011\], Published by Packt Publishing Ltd., [Apache Axis2 Web Services 2nd Edition](https://www.packtpub.com/web-development/apache-axis2-web-services-2nd-edition): Create secure, reliable, and easy-to-use web services using Apache Axis2.<br />
 \[SEBRAE - Controles Financeiros: 2013\], © 2008. Serviço de Apoio às Micro e Pequenas Empresas de Minas
 Gerais – SEBRAE, [SEBRAE - Como Elaborar Controles Financeiros](http://www.sebraemg.com.br/Atendimento/Imagens/Como%20Elaborar%20Controles%20Financeiros.pdf).<br />
 \[Martin Kalin: 2013\], Published by O’Reilly Media, Inc., [Java Web Services](https://www.safaribooksonline.com/library/view/java-web-services/9781449373856/): Up and Running, Second Edition.<br />
 \[Alexandros Dallas: 2014\], Published by Packt Publishing Ltd., [RESTful Web Services with Dropwizard](https://www.packtpub.com/web-development/restful-web-services-dropwizard): Over 20 recipes to help you build high-performance, production-ready RESTful JVM-based backend services.<br />
 \[Hamidreza Sattari, Shameer Kunjumohamed: 2012\], Published by Packt Publishing Ltd., [Spring Web Services 2 Cookbook](https://www.packtpub.com/web-development/spring-web-services-2-cookbook): Over 60 recipes providing comprehensive coverage of practical real-life implementations of Spring-WS.<br />
-\[Deepal Jayasinghe, Afkham Azeez: 2011\], Published by Packt Publishing Ltd., [Apache Axis2 Web Services 2nd Edition](https://www.packtpub.com/web-development/apache-axis2-web-services-2nd-edition): Create secure, reliable, and easy-to-use web services using Apache Axis2.<br />
+\[Sébastien Goasguen: 2016\], O’Reilly Media, Inc., [Docker Cookbook](http://www.allitebooks.com/docker-cookbook/): SOLUTIONS AND EXAMPLES FOR BUILDING DISTRIBUTED APPLICATIONS.<br />
 \[Alan Mark Berg: 2015\],  Packt Publishing, [Jenkins Continuous Integration Cookbook](https://ebooks-it.org/1784390089-ebook.htm), Second Edition<br />
 \[Christian Posta: 2016\], O’Reilly Media, Inc., [Microservices for Java Developers](https://developers.redhat.com/promotions/microservices-for-java-developers/): A Hands-on Introduction to Frameworks and Containers <br />
 \[Markus Eisele: 2016\], O’Reilly Media, Inc., [Modern Java EE Design Patterns](https://developers.redhat.com/promotions/distributed-javaee-architecture/): Building Scalable Architecture for Sustainable Enterprise Development. <br /> 
