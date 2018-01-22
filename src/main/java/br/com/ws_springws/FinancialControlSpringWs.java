@@ -17,4 +17,10 @@ public class FinancialControlSpringWs extends FinancialControl
 		// TODO Auto-generated method stub
 		return null;
 	}
+
+	@Override
+	public double resultsCalculation1() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 }

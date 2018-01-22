@@ -4,6 +4,7 @@ import java.util.Date;
 
 public interface IFinancialControl {
 
-	public ResultsCalculation getResultsCalculation();
-	public ResultsCalculation getResultsCalculation(Date dtStart, Date dtEnd); 
+	ResultsCalculation getResultsCalculation();
+	double resultsCalculation1();
+	ResultsCalculation getResultsCalculation(Date dtStart, Date dtEnd); 
 }
